@@ -19,6 +19,7 @@ This project is dedicated to helping users troubleshoot and fix common errors on
 - Personalized troubleshooting support.
 - Solutions for system performance optimization.
 - Regular updates to address new issues and fixes.
+- Uses Quick Assist if it's windows 10/11
 
 ## Supported Windows Versions
 - Windows 7 (all versions)
