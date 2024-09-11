@@ -68,7 +68,7 @@ If you are experiencing a problem with your Windows system:
      DISM /Online /Cleanup-Image /RestoreHealth
      ```
 
-   **If the problem still persist, please [Contact](#contact) me or the official microsoft support.**
+   **If the problem still persist, please [Contact](#contact) me or the Official Microsoft Support or open an issue in this repository.**
 
 ---
 
@@ -95,7 +95,7 @@ If you are experiencing a problem with your Windows system:
 4. **Use Third-Party Driver Tools**:
    - Use driver management tools like **Driver Booster** or **Snappy Driver Installer** to identify and update outdated drivers.
   
-   **If the problem still persist, please [Contact](#contact) me or the official microsoft support.**
+   **If the problem still persist, please [Contact](#contact) me or the Official Microsoft Support or open an issue in this repository.**
 
 ---
 
@@ -125,7 +125,7 @@ If you are experiencing a problem with your Windows system:
 6. **Use High-Performance Power Plan**:
    - Go to **Control Panel > Power Options** and select the **High Performance** plan to boost your system speed.
   
-     **If the problem still persist, please [Contact](#contact) me or the official microsoft support.**
+     **If the problem still persist, please [Contact](#contact) me or the Official Microsoft Support or open an issue in this repository.**
      
 ---
 
